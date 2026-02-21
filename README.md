@@ -54,5 +54,5 @@ Visit `http://localhost:5000/api/docs` after starting the server.
 - **Logging:** Add Winston or Morgan for structured production logging
 
 ## Live Demo
-- **API Base URL:** https://your-app.up.railway.app/api/v1
-- **Swagger Docs:** https://your-app.up.railway.app/api/docs
+- **API Base URL:** task-manager-production-fb0b.up.railway.app
+- **Swagger Docs:** task-manager-production-fb0b.up.railway.app/api/docs
