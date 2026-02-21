@@ -1,4 +1,4 @@
-# 📋 Task Manager API
+# Task Manager API
 
 A scalable REST API with JWT authentication, role-based access control, and a React frontend.
 
@@ -52,3 +52,7 @@ Visit `http://localhost:5000/api/docs` after starting the server.
 - **Database:** pg connection pooling + read replicas for scale
 - **Docker:** Containerize with docker-compose for consistent deployments
 - **Logging:** Add Winston or Morgan for structured production logging
+
+## Live Demo
+- **API Base URL:** https://your-app.up.railway.app/api/v1
+- **Swagger Docs:** https://your-app.up.railway.app/api/docs
